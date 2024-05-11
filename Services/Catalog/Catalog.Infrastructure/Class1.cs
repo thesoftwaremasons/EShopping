@@ -1,4 +1,4 @@
-﻿namespace Catalog.Core
+﻿namespace Catalog.Infrastructure
 {
     public class Class1
     {
